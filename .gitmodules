@@ -4,3 +4,6 @@
 [submodule "TP1"]
 	path = TP1
 	url = git@github.com:Joaconte/Fiuba-Memo_2-TP1.git
+[submodule "EjercicioMusica"]
+	path = EjercicioMusica
+	url = git@github.com:Joaconte/Fiuba-Memo_2-EjercicioMusica.git
