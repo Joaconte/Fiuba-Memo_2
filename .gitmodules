@@ -7,3 +7,6 @@
 [submodule "EjercicioMusica"]
 	path = EjercicioMusica
 	url = git@github.com:Joaconte/Fiuba-Memo_2-EjercicioMusica.git
+[submodule "EjerciciosIndividuales"]
+	path = EjerciciosIndividuales
+	url = git@github.com:Joaconte/Fiuba-Memo_2-EjerciciosIndividuales.git
