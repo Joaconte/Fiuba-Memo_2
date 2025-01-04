@@ -1,3 +1,6 @@
 [submodule "TP2"]
 	path = TP2
 	url = git@github.com:Joaconte/Fiuba-Memo_2-TP2.git
+[submodule "TP1"]
+	path = TP1
+	url = git@github.com:Joaconte/Fiuba-Memo_2-TP1.git
